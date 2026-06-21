@@ -1,0 +1,21 @@
+{
+  "name": "Eunoia App",
+  "short_name": "Eunoia",
+  "description": "Frases filosóficas diarias con modo oscuro, favoritos y notificaciones personalizadas.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
