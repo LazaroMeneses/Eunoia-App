@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Interfaz de frases motivacionales
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Eunoia-App
+Una app de frases filosóficas
+>>>>>>> dbbb35ac2e6df2a9201ee82818721341bb6f018e
